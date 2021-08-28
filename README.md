@@ -32,7 +32,6 @@
   Currently no tests exists for the application. If you would like to contribute and help us by writing tests, see the [Contributing](#contributing) section.
 
 ## Questions
+  For more information about me and my other projects, visit my [GitHub profile](https://github.com/LindseyJeeJan).
+  Reach me to report issues or with questions at [ljjlauria@mac.com](mailto:ljjlauria@mac.com).
 
-- Let's connect on Linkedin at [Angelica Hernandez](https://www.linkedin.com/in/angelica-hernandez-/)
-- Follow me on Github at [angelicalorraine](http://github.com/angelicalorraine)
-- For more questions contact me: gel.lorraine@gmail.com
